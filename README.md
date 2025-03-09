@@ -15,8 +15,8 @@ A custom card for Home Assistant that allows configuring camera motion detection
 
 1. Install via HACS by adding this repository as a custom repository
    - HACS > Menu > Custom repositories
-   - URL: `karatecarter/camera-motion-card`
-   - Category: `Frontend`
+   - URL: `karatecarter/homeassistant-camera-motion-card`
+   - Category: `Dashboard`
 2. Add the card to your dashboard
    - Click the "+" button to add a new card
    - Search for "Camera Motion Card"
